@@ -1,0 +1,16 @@
+{
+    "name": "airy/feedor",
+    "description": "grabs feeds from social networks and presents them in a funny format on a page",
+    "require": {
+        "twitter/bootstrap": "^3.3@dev",
+        "silex/silex": "^2.0@dev"
+    },
+    "license": "gnu",
+    "authors": [
+        {
+            "name": "Tom S",
+            "email": "tom@ecosys.dk"
+        }
+    ],
+    "minimum-stability": "dev"
+}
